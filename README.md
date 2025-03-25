@@ -2,7 +2,7 @@
 <br>
 <br>
 <h2>Esse foi um projeto bacana que aprendi no <a href= "https//rodolfomori.com.br/devclub">DevClub</a></h2>
-<h2>Esse é um projeto para fazer uma lista  </h2>
+<h2>Esse é um projeto para fazer uma lista interativa onde podemos adicionar itens na lista , concluir tarefa e excluir intens </h2>
 <h3>Tecnologias utilizadas</h3>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
