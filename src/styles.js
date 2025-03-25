@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { FcEmptyTrash, FcCheckmark } from "react-icons/fc";
 
 export const Container = styled.div`
-  background: linear-gradient(90deg,rgb(77, 191, 145) 0%,rgb(1, 142, 25) 81.25%);
+  background: linear-gradient(90deg,rgb(155, 165, 161) 0%,rgb(50, 53, 51) 81.25%);
   width: 100vw;
   height: 100vh;
   display: flex;
